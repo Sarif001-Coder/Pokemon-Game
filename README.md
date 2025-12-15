@@ -1,10 +1,10 @@
 # Pokémon Game
 
-A simple **Pokémon battle game** built using Python that fetches real Pokémon data using an API and simulates turn-based battles. This project is mainly for learning purposes and to understand API integration, game logic, and basic Python structuring.
+A simple **Pokémon battle game** built using Python that fetches real Pokémon data using an API. This project is mainly for learning purposes and to understand API integration, and basic Python structuring.
 
 ---
 
-## 🎮 Features
+## Features
 
 - Fetches real Pokémon data from an API  
 - Shows stats 
@@ -12,10 +12,17 @@ A simple **Pokémon battle game** built using Python that fetches real Pokémon 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-- **Python** 🐍  
+- **Python** 
 - **PokeAPI** (for Pokémon data)
+
+---
+
+## Conceptual Understanding 
+
+- **Request lib.**
+- **API requests**
 
 ---
 
