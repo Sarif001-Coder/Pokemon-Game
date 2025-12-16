@@ -19,6 +19,11 @@ A simple **Pokémon battle game** built using Python that fetches real Pokémon 
 
 ---
 
+## Database
+- https://pokeapi.co/
+
+---
+
 ## Conceptual Understanding 
 
 - **Request library**
