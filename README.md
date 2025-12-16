@@ -39,3 +39,17 @@ Pokemon-Game/
 ├── Pokemon_api_game.py   # Main game file
 ├── README.md             # Project documentation
 └── requirements.txt      # Dependencies (if applicable)
+
+```
+---
+
+## 📝 License  
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙋 Author
+https://www.linkedin.com/in/sarif-shaikh
+
+Thank you for checking out Train Dates Checker!
+If you enjoyed using it, consider giving the repo a ⭐ on GitHub — it really helps support the project 🚆💙
