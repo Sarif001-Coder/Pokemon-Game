@@ -21,7 +21,7 @@ A simple **Pokémon battle game** built using Python that fetches real Pokémon 
 
 ## Conceptual Understanding 
 
-- **Request lib.**
+- **Request library**
 - **API requests**
 
 ---
